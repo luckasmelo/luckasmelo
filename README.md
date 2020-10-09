@@ -1,6 +1,6 @@
 ### Hello, how are you? 👋
 
-Here are some ideas to get you started:
+Some information about my initiatives:
 
 - 🔭 I’m currently working on ... Schott Brasil
 - 🌱 I’m currently learning ... Laravel
